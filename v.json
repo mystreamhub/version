@@ -1,7 +1,7 @@
 {
    "version":
    {
-      "force-up":"true",
-      "versioncode":2
+      "force-up":"false",
+      "versioncode":1
    }
 }
