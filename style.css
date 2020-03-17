@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#nav {
+  padding: 80px;
+  border-right: 1px solid #e1e4e8;
+}
+#nav ul li {
+  text-decoration: none;
+  margin-bottom: 7px;
+}
+#nav ul li a {
+  color: #0366d6;
+}
+#tip {
+  border-bottom: 1px solid #e1e4e8;
+  font-size: 14px;
+  color: #586069;
+  font-weight: 100;
+}
+#title {
+  font-weight: 400;
+  line-height: 1.125;
+  word-wrap: break-word;
+  color: rgba(20, 18, 18, 0.829);
+}
