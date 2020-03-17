@@ -1,7 +1,7 @@
 {
    "version":
    {
-      "force-up":"flase",
+      "force-up":"true",
       "versioncode":2
    }
 }
