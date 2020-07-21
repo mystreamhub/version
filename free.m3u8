@@ -1,0 +1,1891 @@
+#EXTM3U
+#EXTINF:0,natgeo abu
+#EXTGRP:unsorted
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:0,DW-TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ce?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,France 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ci?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ICTV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0hb?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Kazakh TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cd?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,NHK WORLD-JAPAN
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cf?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,NICKTOONS
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fd?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Russia Today HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cc?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TV5 Monde HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cl?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTV HD
+#EXTGRP:unsorted
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0,MTV HD Enland
+#EXTGRP:unsorted
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
+#EXTINF:0,FR24
+#EXTGRP:unsorted
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:0,ALJazeera
+#EXTGRP:unsorted
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0,NATGEO WILD
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,NATGEO WILD
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0,ALJazeera الجزيرة الوثائقية
+#EXTGRP:unsorted
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:0,NHK WORLD
+#EXTGRP:unsorted
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:0,Star Movies
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+#EXTINF:0,MBC MAX
+#EXTGRP:unsorted
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:0,MBC2
+#EXTGRP:unsorted
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:0,dubaione
+#EXTGRP:unsorted
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:0,Music Now
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae:80/hls/music_now/index.m3u8
+#EXTINF:0,rt doc HD
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae:80/hls/rt_doc/index.m3u8
+#EXTINF:0,Osn star movies
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
+#EXTINF:0,Nat Geo People (Opt-2)
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:0,STAR MOVIES
+#EXTGRP:unsorted
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:0,Porn XXX_21
+#EXTGRP:unsorted
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:0,Porn XXX_24
+#EXTGRP:unsorted
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:0,Eurosport 1 (Плейлист с группы vk.com/free_iptv_ru )
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dm?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Eurosport 2
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0di?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dn?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Eurosport 4K
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dp?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Eurosport Gold
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Eurosport Gold HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0do?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Extreme Sports
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dg?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Fuel TV HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dr?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Russian Extreme Ultra HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ds?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Setanta Sports +
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f6?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Setanta Sports HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,UFC ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cz?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Viasat Sport
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dd?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dq?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Живи!
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dt?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,КХЛ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dc?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,КХЛ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dk?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d6?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Боец
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0db?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Премьер HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Страна
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! ТВ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0d9?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0da?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир Баскетбола
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dh?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Моторспорт ТВ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dj?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Русский экстрим
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0de?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТАРТ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dl?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Футбол 1
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Футбол 2
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Футбол 3
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Футбол HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0df?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Еврокино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gt?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,A1 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bg?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,A2 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bh?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Amedia Hit HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bj?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Amedia Hit SD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bi?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bl?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Amedia Premium SD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bk?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,BOLT
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Bollywood HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,CTPK HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gx?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Cinema
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0be?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,FAN HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,FOX HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bn?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Fox Life HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bo?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Hollywood
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0av?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Hollywood HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0au?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Paramount Channel
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Paramount Channel HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0az?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Paramount Comedy HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bf?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,SHOT TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bv?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Sony Channel
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bq?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Sony Channel HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bp?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Sony Sci-Fi
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0br?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Sony Turbo
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bs?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Spike HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bu?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Star Cinema
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Star Family
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b6?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TV 1000 Action HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ae?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TV 1000 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ad?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TV 1000 Русское кино HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0af?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TV XXI Век
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ay?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ViP Comedy HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ai?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ViP Megahit HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ah?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ViP Premiere HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ag?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ViP Serial HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bm?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Zee TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bx?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Zigfreed TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0f7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,День Победы
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0hd?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дом Кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a9?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дом кино Премиум HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0aa?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дорама
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bz?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Иллюзион +
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Индийское кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gu?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ab?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кинозал 1 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gp?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кинозал 2 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gq?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кинокомедия HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0al?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Киномикс
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ap?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0an?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Киносвидание HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0am?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Киносемья HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ak?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Киносерия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0he?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Киноужас HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ao?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кинохит HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0aj?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Классика Кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gs?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Комедийное
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gn?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Комедия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0aq?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Любимое Кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0as?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир сериала
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bt?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НСТ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ax?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НСТ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ Право
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0hw?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ Сериал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0hx?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ Хит
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0hy?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Наш Детектив HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gz?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Наш Кинороман HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0i9?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Наше Мужское
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0hc?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Наше новое кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0at?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ez?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Победа HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ac?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Премиальное HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gm?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ретро
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0by?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Родное кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ar?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Русская комедия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Русский бестселлер
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ba?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Русский детектив
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bb?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Русский роман HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b9?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТРАХ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0hz?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Сиеста HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bc?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Советское кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gv?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Страшное HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0aw?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТАЙНА
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bw?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ XXI
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТРО
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Феникс+ Кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0b4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Шокирующее
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fb?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,кино!
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0bd?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,1+1
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,2+2
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fe?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,2х2
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Анекдот ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a020?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Бобёр
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,КВН ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,КТК
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Калейдоскоп ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Новый канал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,О2ТВ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a021?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пятница!
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТБ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0h8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС Love
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Сарафан
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Супер
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ 3
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНОМЕР
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ4
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Театр
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,5 канал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Food Network HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ca?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TLC HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c6?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,World Fashion Channel HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Домашний
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Еда
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cb?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Еда Премиум HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Звезда
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кухня ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c9?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,МАМА
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир Premium HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ОТР
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a6?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый Вегетарианский HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Перец International
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0i8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РЕН ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ Центр
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Эхо-ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0a8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ю
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0c2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Animal Planet
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Animal Planet HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,DTX HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Da Vinci
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Discovery Channel
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a004?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a006?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Discovery Science HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a009?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,English Club HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Fine Living
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fc?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,H2 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,History HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ID Investigation Discovery HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a008?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Investigation Discovery
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a007?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Love Nature 4K
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Museum HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a017?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,National Geographic
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,National Geographic HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ocean-TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RTG HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RTД HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TV BRICS
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a014?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Travel Channel
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Viasat Explore HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Viasat History HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Viasat Nature HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Viasat Nature HD/History HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ZooПарк
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,myZen.tv HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a018?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Арсенал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fa?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Большая Азия HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Вопросы и ответы
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ff?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Время: далекое и близкое
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Глазами туриста
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a013?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дикий
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a012?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Доктор
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a010?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Живая Планета
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Живая природа
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Загородная жизнь HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,История
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ключ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a011?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Морской HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Моя Планета HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Моя планета
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Нано HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Наука
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ностальгия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый образовательный
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Поехали!
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a019?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Просвещение
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пёс и Ко
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a016?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия К
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Тайны Галактики
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a00w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТелеКафе
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Усадьба ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a01c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Центральное телевидение
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a015?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,M-1 Global
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Авто Плюс
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Авто24 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Диалоги о рыбалке
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a033?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дикая охота HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Драйв
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мужское кино
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a031?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мужской
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a030?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Оружие
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Охота и рыбалка
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a034?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТЕХНО 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a032?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Точка отрыва
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Че!
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,360 Новости
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a038?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,360° HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Euronews
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ВМЕСТЕ-РФ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a039?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дума ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a037?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Известия HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Красная Линия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ЛДПР ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РБК-ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ani
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Baby TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Boomerang
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Cartoon Network HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a029?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Gulli Girl
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,JimJam
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Nick Jr.
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Nickelodeon
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a023?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Tiji
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a028?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,В гостях у сказки
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Детский Мир
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Канал Disney
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a024?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Карусель
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a022?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Малыш ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мульт
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a025?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мульт HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мультиландия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мультимузыка
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,О!
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Радость Моя
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a027?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС Kids HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a02n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Уникум
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a026?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,1HD Music Television
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0em?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,AIVA
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0en?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Bridge TV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ea?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Bridge TV Classic
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ek?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Bridge TV Deluxe
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0el?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Bridge TV Hits
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ej?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Bridge TV Русский хит
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0eh?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Clubbing TV HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dx?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MCM TOP
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTV Dance
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ec?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTV HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTV Hits
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ed?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTV Live HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ep?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTV Rocks
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ee?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MTVmix
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0er?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Mezzo
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0eg?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0eq?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,MusicBox
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dw?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RU.TV HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dy?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Russian MusicBox HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dv?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,VH1 Classic
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ef?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,VH1 European
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,iConcerts HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e9?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Восток ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e6?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Европа Плюс ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0eb?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Жар Птица
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Жара HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ля-минор
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Матур ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0et?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Муз ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0es?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Музыка Первого
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0eo?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ Music
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0du?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Шансон-ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0dz?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Шант Music HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0e2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Arirang
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cr?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,BBC World News
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ch?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,CCTV-4
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cv?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,CGTN
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cw?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,CGTN Russian
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cx?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,БСТ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cp?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,БелРос
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cm?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Беларусь 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0co?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый российский национальный канал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ck?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНВ Татарстан
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cq?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНВ-Планета
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cn?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Хабар 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cj?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Хузур ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cy?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Шант News HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ct?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Шант Premium HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cs?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Шант Serial HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0cu?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Союз
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a036?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Спас
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a035?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,#ё
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,12 канал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,2x2 (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,2x2 (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,2x2 (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,4 канал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,8 КАНАЛ (Владивосток) HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,8 канал Красноярский край
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,8 канал Новосибирск
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,9 Волна
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Kurgan.ru
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,TMTV
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,UGRA TRAVEL
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,АИСТ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,АТВ-Ставрополь
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Альтес
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Амурское областное телевидение
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ариг Ус 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Арктика 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Архыз-24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Астрахань 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Барс плюс
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Башкортостан 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Белгород 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Брянская Губерния
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ВОСЬМОЙ КАНАЛ КРАСНОЯРСК
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a094?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ВОТтв
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Вариант V
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ветта 24 Пермь
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a074?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Волга
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Волгоград 1
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Волгоград-24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Восток 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a093?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Время Н
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Вся Уфа
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Городской Брянск
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Городской телеканал Ярославль
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Губерния
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Губерния 33 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Губерния Самара
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ДОН 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Девятка ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a079?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Дзержинск ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Доверие
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Домашний (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Домашний (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Домашний (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Евразия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a085?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Енисей
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Заб.TV 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Звезда (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Звезда (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Звезда (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ивановское общественное телевидение
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Импульс
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a098?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Инфо 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a072?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,КРАСНОДАР он-лайн
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a096?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,КТВ-Город
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кабардино-Балкария
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Камчатка
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Карусель (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Карусель (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Карусель (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Каскад
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a062?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Катунь 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кубань 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Кузбасс 1 HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Липецкое время
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,МЭТР
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Майдан
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Майкопское Телевидение
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мир Белогорья
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Мордовия-24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Москва 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НВК (Саха)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a089?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ННТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a091?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТВ (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТК
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТН 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТРК Ингушетия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,НТС Иркутск
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Народное телевидение Мордовии
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Национальное ТВ Чувашии
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a077?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Наш дом
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Наши города
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a080?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ника-ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Новгородское областное телевидение
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a065?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Новый век (Тамбов)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ноябрьск 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ОРТ-Планета (Оренбург)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ОТВ Екатеринбург
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a071?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ОТВ Челябинск HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a070?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ОТВ-Владивосток
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ОТВ-Сахалин
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a068?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ОТС
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Область 45
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Объектив 59
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Осетия-Ирыстон
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый Тульский
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый Ярославский
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a060?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый городской (Нижний Новгород)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a084?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый городской канал в Кирове
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a082?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+1)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+3)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a03z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a040?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+5)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a041?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+6)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a042?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a043?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+8)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a044?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый канал (+9)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a045?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Первый областной
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пятница! (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пятница! (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пятница! (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пятый канал (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пятый канал (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Пятый канал (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РГВК Дагестан
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a046?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a047?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a048?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,РТС-Абакан
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Репортер 73
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Рифей-ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+1)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a049?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+3)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04b?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+5)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+6)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04e?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+8)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 1 (+9)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 24 (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 24 (+3)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия 24 (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия К (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия К (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Россия К (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ростов-папа
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Русская линия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,С1 Сургут
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a087?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТВ-Байкал
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a095?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС Love (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС Love (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04p?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СТС-Мир
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09h?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,СЭТ ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08c?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Самара-24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Самара-Гис
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a086?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Сампо ТВ 360°
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a066?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Саратов-24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Своё ТВ Ставрополь
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Селенга-ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08f?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Скат 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a092?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Студия-41
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Супер (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Супер (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Супер (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Сургут 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ 3 (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ 3 (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04u?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ 3 (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ Центр (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04w?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ Центр (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04x?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ Центр (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04y?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ-7
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09g?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ-Губерния
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ-ИН-Магнитогорск
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a097?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ-Колыма-Плюс
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a069?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВ21+
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a064?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТВС 43 Регион
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08l?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТК Центр (Красноярск)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08t?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТКР Рязань
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05v?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНВ Татарстан
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a04z?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a050?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a051?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ4 (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a052?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ4 (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a053?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТНТ4 (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a054?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Татарстан-24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a083?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Теледом
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08r?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ТиВиСи HD
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Тивиком
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07s?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Толк
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09j?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Толпар ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09o?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Тольятти-24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Томское время
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06n?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Тюменское время
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a076?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,УТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a099?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Удмуртия
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a078?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Универ-ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09m?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Хамдан-Калмыкия 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06q?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Че! (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a055?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Че! (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a056?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Че! (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a057?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Шаян ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a09i?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Экспресс
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a07d?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Эфир
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a090?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ю (+2)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a058?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ю (+4)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a059?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ю (+7)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a05a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ЮРГАН (Сыктывкар)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a08k?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,ЮТВ Чебоксары
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a081?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Югра
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a075?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Юрган
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a063?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Якутия 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a06a?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ямал-Регион
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a073?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Leomax 24
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ev?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Shop&Show
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ey?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Shopping live
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ew?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Всё ТВ
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0eu?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Ювелирочка
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ex?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,AST TV 1 (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fg?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,AST TV 2 (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fh?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Jasmin TV (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fi?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Jasmin TV HD 720 (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fj?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Miami TV (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fk?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Miami TV Colombia (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fl?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Miami TV Colombia HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fm?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Big Ass (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fn?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Big Ass HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fo?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Big Dick (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fp?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Big Dick HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fq?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Big Tits (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fr?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Big Tits HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fs?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Blowjob (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ft?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Blowjob HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fu?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Cuckold (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fv?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Cuckold HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fw?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Fetish (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fx?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Fetish HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fy?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Hardcore HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0fz?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Interracial (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g0?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Interracial HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g1?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Latina (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g2?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Latina HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g3?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Lesbian (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g4?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Lesbian HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g5?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic MILF (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g6?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic MILF HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g7?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic POV (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g8?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic POV HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0g9?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Pornstar (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ga?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Pornstar HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gb?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Russian HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gc?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Teen (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gd?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Teen HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0ge?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Threesome (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gf?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,RedTraffic Threesome HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gg?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Shemale HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gh?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Shemale Tube TV (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gi?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Shemale Tube TV 2 (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gj?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,VISIT-X TV (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gk?auth=redab673:yXoW72asubjKfQq
+#EXTINF:0,Visit-X TV HD (18+)
+#EXTGRP:unsorted
+http://144.76.199.108:8002/play/a0gl?auth=redab673:yXoW72asubjKfQq
