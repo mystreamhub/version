@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,natgeo abu
+#EXTGRP:unsorted
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:0,NHK WORLD-JAPAN
+#EXTGRP:unsorted
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
