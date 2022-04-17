@@ -4,25 +4,4 @@
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:0,NHK WORLD-JAPAN
 #EXTGRP:unsorted
-http://144.76.199.108:8002/play/a0cf?auth=redab673:yXoW72asubjKfQq
-#EXTINF:0,MTV HD
-#EXTGRP:unsorted
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:0,MTV HD Enland
-#EXTGRP:unsorted
-http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
-#EXTINF:0,FR24
-#EXTGRP:unsorted
-http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:0,ALJazeera
-#EXTGRP:unsorted
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:0,ALJazeera الجزيرة الوثائقية
-#EXTGRP:unsorted
-https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
-#EXTINF:0,NHK WORLD
-#EXTGRP:unsorted
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:0,dubaione
-#EXTGRP:unsorted
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
