@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,natgeo abu
+#EXTGRP:unsorted
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0,NHK WORLD-JAPAN
+#EXTGRP:unsorted
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0,ALJazeera الجزيرة الوثائقية
+#EXTGRP:unsorted
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:0,DW 1
+#EXTGRP:unsorted
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:0,DW 2
+#EXTGRP:unsorted
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,DW 3
+#EXTGRP:unsorted
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:0,DW 4
+#EXTGRP:unsorted
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:0,DW 5
+#EXTGRP:unsorted
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTM3U
+#EXTINF:0,natgeo abu
+#EXTGRP:unsorted
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTM3U
+#EXTINF:0,BLOOMBERG
+#EXTGRP:unsorted
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTM3U
+#EXTINF:0,DUBAI ONE
+#EXTGRP:unsorted
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTM3U
+#EXTINF:0,ADVENTURE
+#EXTGRP:unsorted
+https://giz.poppo.tv/channellivev3/live/master.m3u8?channel=275
+#EXTM3U
+#EXTINF:0,EDGE
+#EXTGRP:unsorted
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
